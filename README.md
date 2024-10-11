@@ -20,7 +20,6 @@
 https://api.jsonbin.io/v3/b/67069e97e41b4d34e43fd8e6
 
 ## Additional Information
-This project is built with React.
-Design by Figma design.
-Styles by Tailwind CSS Framework.
-
+1. This project is built with React.
+2. Design by Figma design.
+3. Styles by Tailwind CSS Framework.
