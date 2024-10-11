@@ -78,6 +78,7 @@ const InvoiceList = () => {
       );
       setSearchedInvoices(searchInvoices);
       setFilteredInvoices(searchInvoices);
+      setCurrentPage(1);
     }
   }, [serchInovice, invoices]);
 
