@@ -14,4 +14,13 @@
    http://localhost:3000
 
 ## Figma Design
- [here](https://www.figma.com/design/toFy9zAvXCFwOqT8xIly0N/Test-Table-Lidabro-Orders?node-id=0-12121&m=dev&t=Yx7rNalq6AEaHqmw-1). 
+ [here](https://www.figma.com/design/toFy9zAvXCFwOqT8xIly0N/Test-Table-Lidabro-Orders?node-id=0-12121&m=dev&t=Yx7rNalq6AEaHqmw-1)
+
+## Mockapi
+https://api.jsonbin.io/v3/b/67069e97e41b4d34e43fd8e6
+
+## Additional Information
+This project is built with React.
+Design by Figma design.
+Styles by Tailwind CSS Framework.
+
